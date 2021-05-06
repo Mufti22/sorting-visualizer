@@ -1,0 +1,6 @@
+D:\SortComparison_src\Components\bin\Debug\Gif.Components.dll
+D:\SortComparison_src\Components\bin\Debug\Gif.Components.pdb
+D:\SortComparison_src\Components\obj\Debug\Components.csprojAssemblyReference.cache
+D:\SortComparison_src\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+D:\SortComparison_src\Components\obj\Debug\Gif.Components.dll
+D:\SortComparison_src\Components\obj\Debug\Gif.Components.pdb
